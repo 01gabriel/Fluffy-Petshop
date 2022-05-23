@@ -1,0 +1,2 @@
+# startBoot
+Start boot page
